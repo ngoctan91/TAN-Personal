@@ -1,4 +1,9 @@
+## BEN2 Background removal For Personal
 
+### Quick Start
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ngoctan91/TAN-Personal/blob/main/TAN2_run.ipynb)
+
+Click vào nút "Open in Colab" phía trên để chạy trực tiếp trên Google Colab.
 
 # BEN2: Background Erase Network
 
